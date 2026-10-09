@@ -39,4 +39,13 @@ It uses only anonymized data (no real names or personal information) and follows
 
 ---
 
-## Project Structure
+## How to Run the Program
+
+1. Make sure Python 3 is installed on your computer.
+2. Open a terminal / command prompt.
+3. Navigate to the folder containing the file.
+4. Run the following command:
+
+```bash
+python Student_Learning_Portal.py
+
